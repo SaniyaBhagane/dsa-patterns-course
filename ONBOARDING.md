@@ -16,113 +16,59 @@ This sheet is designed to help onboard new learners into the course.
 
 ---
 ## Pattern with Onbording Questions
-Sliding Window
+Sliding Window → 30–31, 17–18
 
-→ 30–31, 17–18
+Intervals → 30–31 (+ 28–29 optional)
 
-Intervals
+Linked List (In-Place) → 11–13, 35
 
-→ 30–31 (+ 28–29 optional)
+Heaps → 30–31 (+ 17–18 optional)
 
-Linked List (In-Place)
+K-Way Merge → Heaps, 30–31
 
-→ 11–13, 35
+Top K Elements → 17–18, Heaps, 30–31
 
-Heaps
+Binary Search (Pattern) → 28–29, 30–31
 
-→ 30–31 (+ 17–18 optional)
+Subsets → 32–34
 
-K-Way Merge
+Greedy → 30–31
 
-→ Heaps, 30–31
+Backtracking → 32–34
 
-Top K Elements
+Dynamic Programming → 32–34 → 40–42 → 43
 
-→ 17–18, Heaps, 30–31
+Cyclic Sort → 30–31
 
-Binary Search (Pattern)
+Topological Sort → 14–16, Graph basics
 
-→ 28–29, 30–31
+Sort & Search → 28–29, 30–31
 
-Subsets
+Matrices → 30–31 (+ 32–34 optional)
 
-→ 32–34
+Stacks (Pattern) → 36–37
 
-Greedy
+Graphs → 14–16, 36–37
 
-→ 30–31
+Tree DFS → 19, 32–34
 
-Backtracking
+Tree BFS → 19, 14–16
 
-→ 32–34
+Trie → 19, 17–18
 
-Dynamic Programming
+HashMap (Pattern) → 17–18
 
-→ 32–34 → 40–42 → 43
+Frequency / Tracking → 17–18 (+ 30–31 optional)
 
-Cyclic Sort
+Union Find → Graph basics
 
-→ 30–31
+Custom Data Structures → 11–13, 14–16, 36–37, 17–18
 
-Topological Sort
+Bitwise → None
 
-→ 14–16, Graph basics
+Math & Geometry → None
 
-Sort & Search
-
-→ 28–29, 30–31
-
-Matrices
-
-→ 30–31 (+ 32–34 optional)
-
-Stacks (Pattern)
-
-→ 36–37
-
-Graphs
-
-→ 14–16, 36–37
-
-Tree DFS
-
-→ 19, 32–34
-
-Tree BFS
-
-→ 19, 14–16
-
-Trie
-
-→ 19, 17–18
-
-HashMap (Pattern)
-
-→ 17–18
-
-Frequency / Tracking
-
-→ 17–18 (+ 30–31 optional)
-
-Union Find
-
-→ Graph basics
-
-Custom Data Structures
-
-→ 11–13, 14–16, 36–37, 17–18
-
-Bitwise
-
-→ None
-
-Math & Geometry
-
-→ None
-
-Segment Tree
-
-→ 19, 32–34
+Segment Tree → 19, 32–34
 
 ## 🗓️ Day-wise Video Links
 
